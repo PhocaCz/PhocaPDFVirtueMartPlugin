@@ -1,0 +1,1 @@
+Phoca PDF VirtueMart Plugin is Joomla! CMS extension. Plugin which renders PDF document from VirtueMart extension.
